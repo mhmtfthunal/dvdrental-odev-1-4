@@ -4,7 +4,7 @@ Bu repo; PostgreSQL **dvdrental** örnek veritabanı üzerinde 4 ödev için SQL
 
 ```
 .
-├─ README.md               ← bu dosya
+├─ README.md
 └─ sql/
    ├─ odev1.sql
    ├─ odev2.sql
@@ -13,8 +13,6 @@ Bu repo; PostgreSQL **dvdrental** örnek veritabanı üzerinde 4 ödev için SQL
 ```
 
 ---
-
-## README.md (kopyala/yapıştır)
 
 ### Gereksinimler
 
