@@ -1,4 +1,4 @@
-# dvdrental-sql-odevler
+# dvdrental-odev-1-4
 
 Bu repo; PostgreSQL **dvdrental** örnek veritabanı üzerinde 4 ödev için SQL dosyalarını ve kullanımı içerir.
 
