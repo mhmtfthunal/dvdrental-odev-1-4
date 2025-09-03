@@ -14,13 +14,12 @@ Bu repo; PostgreSQL **dvdrental** örnek veritabanı üzerinde 4 ödev için SQL
 
 ---
 
+## README.md (kopyala/yapıştır)
 
 ### Gereksinimler
 
 * PostgreSQL 12+ (öneri: 14/15/16/17)
 * dvdrental örnek veritabanı (tar/sql dump)
-
-```
 
 ---
 
